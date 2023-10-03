@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rgba(3,152,252,0.7);
+    width: 80%;
+}
+
+.navList li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 25px;
+    padding: 10px;
+}
+
+.navList li a{
+    color: #fff;
+}
+
+.navList li a:hover{
+    color: rgba(212,100,212,0.7);
+}
